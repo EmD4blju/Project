@@ -102,3 +102,7 @@ a:not(:hover){
 /*--------------*/
 /*-----MAIN SITE-----*/
 
+#clock{
+    text-align: center;
+    padding:20px;
+}
