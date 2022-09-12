@@ -87,19 +87,14 @@ a:not(:hover){
     color:red;
     padding: 2px;
 }
-.badge{
-    position: relative;
-}
-.plan.top span{
-    position: absolute;
-    left:-95px;
-    transform: rotateZ(-45deg);
-    top:-20px;
-    width: 100%;
-    padding:5px;
-    background-color: lightgreen;
-    color:#221b29
-}
 .top{
     border:1px groove lightgreen;
+}
+#clock{
+    text-align: center;
+    padding:20px;
+    font-size: 30px;
+    color:beige;
+    position: relative;
+    top: 5vh;
 }
