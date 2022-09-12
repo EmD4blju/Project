@@ -40,16 +40,6 @@ h2{
     margin-top:20px;
     text-align: justify;
 }
-@media only screen and (max-width: 606px) {
-    .plan{
-        margin-bottom:5vh;
-    }
-}
-@media only screen and (max-width: 1025px) and (max-height: 1791px) {
-    .offer{
-        transform: translateY(5vh) scale(0.7);
-    }
-}
 li{
     margin:10px;
 }

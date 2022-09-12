@@ -116,9 +116,12 @@ a:not(:hover){
     float: left;
     border-radius: 3px;
 }
-.info{
+
+.description{
+    width:90%;
+    text-align: justify;
     padding: 10px;
-    display: flex;
-    flex-wrap: wrap;
+    position: relative;
+    left:20px;
 }
 
