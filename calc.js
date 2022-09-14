@@ -20,7 +20,7 @@ let calculator = {
 
     buttonClick: function(e){
         let divHtmlText = e.target.innerHTML;
-        console.log("ok " + divHtmlText);
+        //console.log("ok " + divHtmlText);
 
         switch(divHtmlText){
             case "=":
