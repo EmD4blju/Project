@@ -1,4 +1,5 @@
 window.onload = function(){
+   
     setInterval(function(){
        var time = new Date();
        var hours = time.getHours();
@@ -16,9 +17,6 @@ window.onload = function(){
    }, 1000);
 }
 
-let toggle = document.querySelector('#toggle');
-toggle.onclick = function(){
-    toggle.classList.toggle('active');
-}
+
 
    
